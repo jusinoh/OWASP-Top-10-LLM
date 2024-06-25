@@ -1,5 +1,7 @@
 # OWASP-Top-10-LLM
 
+![Application Data Flow](image.png)
+
 ## 1. LLM01: Prompt Injection
 
 - Issue: Attackers manipulate LLM inputs to cause unintended actions.
