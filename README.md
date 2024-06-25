@@ -11,7 +11,7 @@
     - Segregate external content from user prompts.
     - Regularly monitor and audit LLM input and output.
 
-2. LLM02: Insecure Output Handling
+## 2. LLM02: Insecure Output Handling
 
 - Issue: Insufficient validation and handling of LLM outputs before passing them downstream.
 - Identification: Check for unexpected behaviors like XSS, CSRF, or SSRF in applications using LLM outputs.
